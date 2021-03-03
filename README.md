@@ -1,9 +1,9 @@
 ### Hi there 👋
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179610825&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12179610825&redirect=true)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kehwhyn&show_icons=true&hide=issues&layout=compact&theme=highcontrast)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kehwhyn&show_icons=true&hide=issues&layout=compact&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kehwhyn&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kehwhyn&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![](https://komarev.com/ghpvc/?username=kehwhyn&color=ff69b4)-->
 
