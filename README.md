@@ -1,5 +1,5 @@
 ### Hi there 👋
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12179610825&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12179610825&cover_image=true&theme=novatorem)]]
+![[https://spotify-github-profile.vercel.app/api/view.svg?uid=12179610825&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12179610825&cover_image=true&theme=novatorem)]]
 
 <!--
 **kehwhyn/kehwhyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
