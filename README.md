@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179610825&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12179610825&redirect=true)
 
+
+![](https://komarev.com/ghpvc/?username=kehwhyn&color=ff69b4)
+
 <!--
 **kehwhyn/kehwhyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
