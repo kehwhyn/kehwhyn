@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![Spotify](https://spotify-rho.vercel.app/api/spotify/)](https://open.spotify.com/user/12179610825)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179610825&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **kehwhyn/kehwhyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
