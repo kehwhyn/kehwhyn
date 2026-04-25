@@ -9,7 +9,7 @@ Software Engineer by education, Data Engineer by profession. Geek, gaymer, reade
 - 🔭 I’m currently working on data engineering projects, building end-to-end pipelines (ingestion, ETL, data lakes/warehouses, orchestration, monitoring, etc.)
 - 🌱 At the moment learning how to design simpler and more reliable data systems without overcomplicating the stack - aiming to become a data architect
 - 👯 I’m looking to collaborate on practical data projects — especially anything involving messy real-world data
-- 🤔 I’m might be needing help with DevOps/DataOps (YAML files are my nightmare)
+- 🤔 I might be needing help with DevOps/DataOps (YAML files are my nightmare)
 - 💬 I enjoy talking about programming, design patterns, conecting services and reproducible environments
 - ⚡ Fun fact: If you let me, I'll put a Dockerfile on everything 🐳 (it'll be fast, I promise 😈)
 
