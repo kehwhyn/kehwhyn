@@ -6,12 +6,12 @@ $ whoami
 Software Engineer by education, Data Engineer by profession. Geek, gamer, reader — and a fan of roller skating and swimming.
 ```
 
-- 🔭 I’m currently working on data engineering projects. Trying to build e2e like: ingestion, ETL, DL/DW, orquestration, monitoring etc
-- 🌱 At the moment learning how to design simpler and more reliable data systems without overcomplicating the stack and striving to be an data architect
+- 🔭 I’m currently working on data engineering projects, building end-to-end pipelines (ingestion, ETL, data lakes/warehouses, orchestration, monitoring, etc.)
+- 🌱 At the moment learning how to design simpler and more reliable data systems without overcomplicating the stack - aiming to become a data architect
 - 👯 I’m looking to collaborate on practical data projects — especially anything involving messy real-world data
-- 🤔 I’m looking for help with DevOps/DataOps (yml files are my nightmare)
-- 💬 I enjoy chatting about programming, design patterns, conecting services and reproducible environments
-- ⚡ Fun fact: If you let me I'll put a Dockerfile on everything 🐳 (It'll be fast I promise)
+- 🤔 I’m looking for help with DevOps/DataOps (YAML files are my nightmare)
+- 💬 I enjoy talking about programming, design patterns, conecting services and reproducible environments
+- ⚡ Fun fact: If you let me, I'll put a Dockerfile on everything 🐳 (it'll be fast, I promise 😈)
 
 You can find my socials on the side.
 
