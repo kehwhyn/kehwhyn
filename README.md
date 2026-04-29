@@ -3,14 +3,14 @@
 ```bash
 kehwhyn at github.com/kehwhyn
 $ whoami
-Software Engineer by education, Data Engineer by profession. Geek, gaymer, reader — and a fan of rollerblading and swimming.
+Software Engineer by education, Data Engineer by profession. Geek, gamer, reader — and a fan of rollerblading and swimming.
 ```
 
 - 🔭 I’m currently working on data engineering projects, building end-to-end pipelines (ingestion, ETL, data lakes/warehouses, orchestration, monitoring, etc.)
-- 🌱 At the moment learning how to design simpler and more reliable data systems without overcomplicating the stack - aiming to become a data architect
+- 🌱 Currently specializing in Data Engineering to strengthen my foundations and guide my studies — with the goal of becoming a Data Architect in the future
 - 👯 I’m looking to collaborate on practical data projects — especially anything involving messy real-world data
-- 🤔 I might be needing help with DevOps/DataOps (YAML files are my nightmare)
-- 💬 Reach out to talk about programming, design patterns, conecting services and reproducible environments
+- 🤔 I might be needing help with DevOps/DataOps (YAML files are my nemesis)
+- 💬 Reach out to talk about programming, design patterns, conecting services, reproducible environments and Nix
 - ⚡ Fun fact: If you let me, I'll put a Dockerfile on everything 🐳 (it'll be fast, I promise 😈)
 
 You can find my socials on the side.
