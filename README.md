@@ -11,7 +11,7 @@ Software Engineer by education, Data Engineer by profession. Geek, gamer, reader
 - 👯 I’m looking to collaborate on practical data projects — especially anything involving messy real-world data
 - 🤔 I might be needing help with DevOps/DataOps (I fight YAML files with all my might)
 - 💬 Reach out to talk about programming, design patterns, conecting services, reproducible environments and Nix
-- ⚡ Fun fact: If you let me, I'll put a Dockerfile on everything 🐳 (it'll be fast, I promise 😈)
+- ⚡ Fun fact: If you let me, I'll put a Dockerfile on everything 🐳
 
 You can find my socials on the side.
 
