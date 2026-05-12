@@ -9,7 +9,6 @@ Software Engineer by education, Data Engineer by profession. Geek, gamer, reader
 - 🔭 I’m currently working on data engineering projects, building end-to-end pipelines (ingestion, ETL, data lakes/warehouses, orchestration, monitoring, etc.)
 - 🌱 At the moment, specializing in Data Engineering at PUC Minas to strengthen my foundations and guide my studies — aiming to become a Data Architect
 - 👯 I’m looking to collaborate on practical data projects, if you find messy real-world datasets email me please
-- 🤔 I might be needing help with DevOps/DataOps (I fight YAML files with all my might)
 - 💬 Reach out to talk about programming, design patterns, conecting services, reproducible environments and Nix
 - ⚡ Fun fact: If you let me, I'll put a Dockerfile on everything 🐳
 
