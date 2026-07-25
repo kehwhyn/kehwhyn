@@ -3,7 +3,7 @@
 ```bash
 kehwhyn at github.com/kehwhyn
 $ whoami
-Data Engineer by day, Software Engineer by Night. Geek, gamer, reader — and a fan of rollerblading and swimming.
+Data Engineer by day, Software Engineer by Night. Geek, gamer, reader — and a fan of rollerblading/swimming.
 ```
 
 - 🔭 I’m currently working on data engineering projects, building end-to-end pipelines (ingestion, ETL, data lakes/warehouses, orchestration, monitoring, etc.)
