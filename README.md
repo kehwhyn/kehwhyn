@@ -4,15 +4,18 @@
 kehwhyn at github.com/kehwhyn
 $ whoami
 Data Engineer by day, Software Engineer by night. Geek, gamer, reader — and a fan of rollerblading/swimming.
+You can find my socials on the side.
 ```
 
-- 🔭 I’m currently working on data engineering projects, building end-to-end pipelines (ingestion, ETL, data lakes/warehouses, orchestration, monitoring, etc.)
-- 🌱 At the moment, specializing in Data Engineering at PUC Minas to strengthen my foundations and guide my studies — aiming to become a Data Architect
-- 👯 I’m looking to collaborate on practical data projects, if you find messy real-world datasets email me please
-- 💬 Reach out to talk about programming, design patterns, conecting services and reproducible environments
-- ⚡ Fun fact: If you let me, I'll put a Dockerfile on everything 🐳
+What I'm up to lately:
+- Currently working on data engineering projects, building end-to-end pipelines (ingestion, ETL, data lakes/warehouses, orchestration, monitoring, etc.)
+- Specializing in Data Engineering at PUC Minas to strengthen my foundations and guide my studies — aiming to become a Data Architect
+- Looking to collaborate on practical data projects, if you find messy real-world datasets email me please
 
-You can find my socials on the side.
+Reach out to talk about programming, design patterns, conecting services/platforms and reproducible environments
+Fun fact: If you let me, I'll put a Dockerfile on everything 🐳
+
+Stack: Python, PySpark, SQL, Docker, AWS
 
 <!--
 **kehwhyn/kehwhyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
