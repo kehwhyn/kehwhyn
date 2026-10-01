@@ -13,7 +13,6 @@ What I'm up to lately:
 - Looking to collaborate on practical data projects, if you find messy real-world datasets email me please
 
 Reach out to talk about programming, design patterns, conecting services/platforms and reproducible environments
-Fun fact: If you let me, I'll put a Dockerfile on everything 🐳
 
 Stack: Python, PySpark, SQL, Docker, AWS
 
