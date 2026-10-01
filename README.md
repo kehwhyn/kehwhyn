@@ -16,7 +16,7 @@ Reach out to talk about programming, design patterns, conecting services/platfor
 
 Stack: Python, PySpark, SQL, Docker, AWS
 <br>
-Interests: Reproducible Environments, Data Architecture
+Interests: Reproducible Environments, Software/Data Architecture
 
 <!--
 **kehwhyn/kehwhyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
